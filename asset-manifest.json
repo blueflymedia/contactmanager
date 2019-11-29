@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/contactmanager/static/css/main.087b9074.chunk.css",
+    "main.js": "/contactmanager/static/js/main.8d48d298.chunk.js",
+    "main.js.map": "/contactmanager/static/js/main.8d48d298.chunk.js.map",
+    "runtime-main.js": "/contactmanager/static/js/runtime-main.9067859b.js",
+    "runtime-main.js.map": "/contactmanager/static/js/runtime-main.9067859b.js.map",
+    "static/css/2.b0bb7f2c.chunk.css": "/contactmanager/static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.40279019.chunk.js": "/contactmanager/static/js/2.40279019.chunk.js",
+    "static/js/2.40279019.chunk.js.map": "/contactmanager/static/js/2.40279019.chunk.js.map",
+    "index.html": "/contactmanager/index.html",
+    "precache-manifest.70990f1e3df52e94b31adf2e6d3dfe0e.js": "/contactmanager/precache-manifest.70990f1e3df52e94b31adf2e6d3dfe0e.js",
+    "service-worker.js": "/contactmanager/service-worker.js",
+    "static/css/2.b0bb7f2c.chunk.css.map": "/contactmanager/static/css/2.b0bb7f2c.chunk.css.map",
+    "static/css/main.087b9074.chunk.css.map": "/contactmanager/static/css/main.087b9074.chunk.css.map",
+    "static/media/all.css": "/contactmanager/static/media/fa-solid-900.c2801fb4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9067859b.js",
+    "static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.40279019.chunk.js",
+    "static/css/main.087b9074.chunk.css",
+    "static/js/main.8d48d298.chunk.js"
+  ]
+}
